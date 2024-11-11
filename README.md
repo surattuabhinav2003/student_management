@@ -1,1 +1,2 @@
 # student_management
+Developed a comprehensive web-based Student Management System using PHP and MySQL. The system allows efficient management of student data, including adding, editing, deleting, and viewing records. Implemented functionalities to capture key academic metrics like midterm scores, weekly assessments, and attendance, and developed a custom algorithm to calculate total marks based on weighted scoring of these metrics. Enhanced usability with a clean user interface, validation features, and a responsive layout for a seamless user experience.
